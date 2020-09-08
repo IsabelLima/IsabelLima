@@ -1,6 +1,7 @@
 <a href= "https://br.linkedin.com/in/isabellima1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![Isabel github stats](https://github-readme-stats.vercel.app/api?username=IsabelLima&theme=monokai)](https://github.com/IsabelLima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelLima&theme=monokai)](https://github.com/IsabelLima/github-readme-stats)
 <!--
 **IsabelLima/IsabelLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
